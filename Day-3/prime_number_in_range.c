@@ -18,13 +18,11 @@ int main() {
       break;
          }
         }
-
      // If isPrime is still 1, the number is prime
     if (isPrime == 1) {
         printf("%d ", i);
         }
     }
-
     printf("\n");
     return 0;
 }
